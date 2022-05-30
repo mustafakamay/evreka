@@ -30,4 +30,4 @@ docker-compose up --build -d
 -   Bin class has latitude and longitude fields. BinOperation class has collection_frequency and last_collection fields. Endpoint that returns the collection_frequency list for each BinOperation pair
 -   path: `http://localhost:8000/collection-frequency/`
 
-
+![ScreenShot](https://raw.github.com/mustafakamay/evreka/main/image.png)
