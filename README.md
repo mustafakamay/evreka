@@ -1,6 +1,5 @@
 # evreka
-# Blog-Api
-This is a blog api that I made with Python. I use Django Rest Framework as a runtime.
+This is a operation api that I made with Python. I use Django Rest Framework as a runtime.
 ## Build and run
 You can run the server with
 `
